@@ -25,6 +25,8 @@ Include the specific theme in your html file.
 <link rel="stylesheet" href="css/specific-theme.css" id="nebula">
 ```
 
+Now use those css variables for styling.
+
 See `script.js` to see example of keybindings, cycle themes, change theme and radnom theme select.
 
 # Support

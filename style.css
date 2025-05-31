@@ -1,0 +1,171 @@
+/* VARIABLES */
+/* ELEMENTS */
+:root {
+  font-family: monospace;
+  font-size: clamp(0.4rem, 1.5vw, 2rem);
+}
+
+body {
+  display: grid;
+  padding: 0rem 1.5rem;
+  justify-content: center;
+  background-color: black;
+}
+body * {
+  cursor: default;
+  padding: 0.5rem;
+  text-align: center;
+  font-weight: bolder;
+  color: var(--base07);
+  border-radius: 0.5rem;
+}
+body section {
+  margin-bottom: 1.5rem;
+}
+body section > div:nth-child(2) {
+  gap: 0.5rem;
+  display: grid;
+  grid-template-columns: auto auto;
+}
+body select {
+  font-size: smaller !important;
+  background-color: var(--base00);
+}
+body button {
+  padding: 1.5rem;
+  font-size: smaller !important;
+  background-color: var(--base01);
+}
+body nav, body section {
+  background-color: var(--base00);
+}
+body select, body button {
+  border: none;
+}
+body a, body select, body button {
+  cursor: pointer;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  margin: 2.5rem 0rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  justify-content: space-between;
+}
+
+#section-0 kbd:nth-child(1) {
+  color: var(--base08);
+}
+#section-0 kbd:nth-child(2) {
+  color: var(--base09);
+}
+#section-0 kbd:nth-child(3) {
+  color: var(--base0A);
+}
+#section-0 kbd:nth-child(4) {
+  color: var(--base0B);
+}
+
+#section-1 h1 {
+  color: var(--base08);
+}
+#section-1 h2 {
+  color: var(--base09);
+}
+#section-1 h3 {
+  color: var(--base0A);
+}
+#section-1 h4 {
+  color: var(--base0B);
+}
+#section-1 h5 {
+  color: var(--base0C);
+}
+#section-1 h6 {
+  color: var(--base0D);
+}
+
+#section-2 a:nth-child(1) {
+  color: var(--base08);
+}
+#section-2 a:nth-child(2) {
+  color: var(--base09);
+}
+#section-2 a:nth-child(3) {
+  color: var(--base0A);
+}
+#section-2 a:nth-child(4) {
+  color: var(--base0B);
+}
+#section-2 a:nth-child(5) {
+  color: var(--base0C);
+}
+#section-2 a:nth-child(6) {
+  color: var(--base0D);
+}
+#section-2 a:nth-child(7) {
+  color: var(--base0E);
+}
+#section-2 a:nth-child(8) {
+  color: var(--base0F);
+}
+
+#section-3 button {
+  color: var(--base00);
+}
+#section-3 button:nth-child(1) {
+  color: var(--base08);
+}
+#section-3 button:nth-child(2) {
+  color: var(--base09);
+}
+#section-3 button:nth-child(3) {
+  color: var(--base0A);
+}
+#section-3 button:nth-child(4) {
+  color: var(--base0B);
+}
+#section-3 button:nth-child(5) {
+  color: var(--base0C);
+}
+#section-3 button:nth-child(6) {
+  color: var(--base0D);
+}
+#section-3 button:nth-child(7) {
+  color: var(--base0E);
+}
+#section-3 button:nth-child(8) {
+  color: var(--base0F);
+}
+
+#section-4 button {
+  color: var(--base00);
+}
+#section-4 button:nth-child(1) {
+  background-color: var(--base08);
+}
+#section-4 button:nth-child(2) {
+  background-color: var(--base09);
+}
+#section-4 button:nth-child(3) {
+  background-color: var(--base0A);
+}
+#section-4 button:nth-child(4) {
+  background-color: var(--base0B);
+}
+#section-4 button:nth-child(5) {
+  background-color: var(--base0C);
+}
+#section-4 button:nth-child(6) {
+  background-color: var(--base0D);
+}
+#section-4 button:nth-child(7) {
+  background-color: var(--base0E);
+}
+#section-4 button:nth-child(8) {
+  background-color: var(--base0F);
+}
+
+/*# sourceMappingURL=style.css.map */

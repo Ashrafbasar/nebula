@@ -1,2 +1,31 @@
-# nebula
+# Nebula
+
 🚀 Nebula - The Collection Of CSS Themes (Like Gruvbox, Solarized)
+
+![gruvbox-dark-hard](img/gruvbox-dark-hard.png "GRUVBOX DARK HARD")
+![onedark](img/onedark.png "ONEDARK")
+![solarized-dark](img/solarized-dark.png "SOLARIZED DARK")
+![monokai](img/monokai.png "MONOKAI")
+![gruvbox-light-hard](img/gruvbox-light-hard.png "GRUVBOX LIGHT HARD")
+![solarized-light](img/solarized-light.png "SOLARIZED LIGHT")
+
+# Usage
+
+Copy the css themes in `css/` to your project's css folder.
+
+```bash
+cp css/* path_to_your_project/css/
+```
+
+Include the specific theme in your html file.
+
+```html
+<link rel="stylesheet" href="css/specific-theme.css" id="nebula">
+```
+
+See `script.js` to see example of keybindings, cycle themes, change theme and radnom theme select.
+
+# Support
+
+Just give me a star, that's enough.
+

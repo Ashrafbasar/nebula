@@ -1,8 +1,8 @@
 /* VARIABLES */
 /* ELEMENTS */
 :root {
-  font-family: monospace;
-  font-size: clamp(0.4rem, 1.5vw, 2rem);
+  font-family: system-ui, sans-serif;
+  font-size: clamp(0.5rem, 1.5vw, 2rem);
 }
 
 body {

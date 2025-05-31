@@ -34,7 +34,7 @@ body {
     }
 
     section > div:nth-child(2) {
-        gap: $size-sm;
+        gap: $size-md;
         display: grid;
         grid-template-columns: auto auto;
     }

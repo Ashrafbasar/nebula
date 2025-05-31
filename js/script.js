@@ -31,14 +31,22 @@ function changeTheme(index) {
 }
 
 function shiftThemeLeft() {
+
     if (websiteTheme.selectedIndex > 0) {
         changeTheme(websiteTheme.selectedIndex - 1);
+
+    } else {
+        changeTheme(websiteThemes.length - 1);
     }
 }
 
 function shiftThemeRight() {
+
     if (websiteTheme.selectedIndex < (websiteThemes.length - 1)) {
         changeTheme(websiteTheme.selectedIndex + 1);
+
+    } else {
+        changeTheme(0);
     }
 }
 

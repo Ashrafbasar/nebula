@@ -144,28 +144,36 @@ nav {
   color: var(--base00);
 }
 #section-4 button:nth-child(1) {
-  background-color: var(--base08);
+  border: 0.2rem solid var(--base08);
+  color: var(--base08);
 }
 #section-4 button:nth-child(2) {
-  background-color: var(--base09);
+  border: 0.2rem solid var(--base09);
+  color: var(--base09);
 }
 #section-4 button:nth-child(3) {
-  background-color: var(--base0A);
+  border: 0.2rem solid var(--base0A);
+  color: var(--base0A);
 }
 #section-4 button:nth-child(4) {
-  background-color: var(--base0B);
+  border: 0.2rem solid var(--base0B);
+  color: var(--base0B);
 }
 #section-4 button:nth-child(5) {
-  background-color: var(--base0C);
+  border: 0.2rem solid var(--base0C);
+  color: var(--base0C);
 }
 #section-4 button:nth-child(6) {
-  background-color: var(--base0D);
+  border: 0.2rem solid var(--base0D);
+  color: var(--base0D);
 }
 #section-4 button:nth-child(7) {
-  background-color: var(--base0E);
+  border: 0.2rem solid var(--base0E);
+  color: var(--base0E);
 }
 #section-4 button:nth-child(8) {
-  background-color: var(--base0F);
+  border: 0.2rem solid var(--base0F);
+  color: var(--base0F);
 }
 
 /*# sourceMappingURL=style.css.map */

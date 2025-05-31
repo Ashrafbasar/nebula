@@ -115,12 +115,12 @@ nav {
 
 #section-4 {
     button { color: var(--base00) }
-    button:nth-child(1) { background-color: var(--base08) }
-    button:nth-child(2) { background-color: var(--base09) }
-    button:nth-child(3) { background-color: var(--base0A) }
-    button:nth-child(4) { background-color: var(--base0B) }
-    button:nth-child(5) { background-color: var(--base0C) }
-    button:nth-child(6) { background-color: var(--base0D) }
-    button:nth-child(7) { background-color: var(--base0E) }
-    button:nth-child(8) { background-color: var(--base0F) }
+    button:nth-child(1) { border: 0.2rem solid var(--base08); color: var(--base08) }
+    button:nth-child(2) { border: 0.2rem solid var(--base09); color: var(--base09) }
+    button:nth-child(3) { border: 0.2rem solid var(--base0A); color: var(--base0A) }
+    button:nth-child(4) { border: 0.2rem solid var(--base0B); color: var(--base0B) }
+    button:nth-child(5) { border: 0.2rem solid var(--base0C); color: var(--base0C) }
+    button:nth-child(6) { border: 0.2rem solid var(--base0D); color: var(--base0D) }
+    button:nth-child(7) { border: 0.2rem solid var(--base0E); color: var(--base0E) }
+    button:nth-child(8) { border: 0.2rem solid var(--base0F); color: var(--base0F) }
 }

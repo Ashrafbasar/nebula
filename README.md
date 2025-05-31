@@ -9,12 +9,14 @@
 ![gruvbox-light-hard](img/gruvbox-light-hard.png "GRUVBOX LIGHT HARD")
 ![solarized-light](img/solarized-light.png "SOLARIZED LIGHT")
 
+Preview website: https://alexthegreat600.github.io/nebula
+
 # Usage
 
 Copy the css themes in `css/` to your project's css folder.
 
 ```bash
-cp css/* path_to_your_project/css/
+cp css/theme.css path_to_your_project/css/
 ```
 
 Include the specific theme in your html file.

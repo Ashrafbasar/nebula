@@ -27,7 +27,7 @@ Include the specific theme in your html file.
 
 Now use those css variables for styling.
 
-See `script.js` to see example of keybindings, cycle themes, change theme and radnom theme select.
+See `script.js` to see example of keybindings, cycle themes, change theme and random theme select.
 
 # Support
 
